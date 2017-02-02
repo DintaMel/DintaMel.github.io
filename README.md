@@ -19,3 +19,5 @@ The purpose of this repository is to get you your personal website up on GitHub 
 1. Download GitHub Desktop here: [ GitHub Desktop Download ](https://desktop.github.com/)
 2. Complete the Install and Setup Instructions.
 3. Follow these steps for cloning the respository: [ Cloning GitHub Desktop ](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-desktop/)
+
+
