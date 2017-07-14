@@ -1,21 +1,39 @@
 body {
-  background-color: #eeeeee;
-  color: #030303;
+  background-color: #4a4a4a;
+  color: white;
   margin: 0;
   padding: 0;
 }
 
 .header {
   padding: 15px;
+  font-family: 'Kurale', serif;
+  font-size: 125%;
 }
 
 .content {
-  background-color: #030303;
+  background-color: #5e9894;
   color: #eeeeee;
   display: flex;
   padding: 15px;
+  font-family: 'Bellefair', serif;
 }
 
 p {
-  margin: 0 15px;
+  font-size: 125%;
+  display: flex;
+  align-items: center;
+}
+
+.content-bio{
+  margin: 0 3%;
+  flex-direction: column;
+}
+
+.thumbnail{
+  transform: rotate(270deg);
+  height: auto;
+  width: auto;
+  max-width: 300px;
+  max-height: 300px;
 }
